@@ -1,0 +1,6 @@
+[
+    {
+        "name": "flaskdemo",
+        "command": "sleep 500"
+    }
+]
